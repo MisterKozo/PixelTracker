@@ -7,7 +7,7 @@ $link = mysqli_connect($host, $user, $pass, $data);
 if (!$link)
 	die("Oops!");
 else
-	echo("hi");
+	echo("Tf you lookin' at?<br><a href='izuku.html'>it seems that you cant run javascript after setting the header to an image but look here</a>");
 
 $link = mysqli_connect($host, $user, $pass, $data);
 

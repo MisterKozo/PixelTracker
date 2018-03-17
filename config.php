@@ -1,9 +1,8 @@
 <?php
-$host = "HOSTADDR";
-$data = "DATABASE";
-$user = "USERNAME";
-$pass = "PASSWORD";
-$pref = "pt_";
+$host = "hostname";
+$data = "database name";
+$user = "username";
+$pass = "password";
 $char = "utf8";
 
 $dsn  = "mysql:host=$host;dbname=$data;charset=$char";
